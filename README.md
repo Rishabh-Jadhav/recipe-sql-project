@@ -90,11 +90,11 @@ Mapping table connecting recipes and ingredients.
 
 
 ##📸 Screenshots
-[Er Diagram](images/er-diagram.png)
-[Create Query](images/create-query.png)
-[select query](images/select-query.png)
-[select query result](images/select-query-result.png)
-[table recipr](images/table-recipr.png)
+![Er Diagram](images/er-diagram.png)
+![Create Query](images/create-query.png)
+![select query](images/select-query.png)
+![select query result](images/select-query-result.png)
+![table recipr](images/table-recipr.png)
 
 
 
