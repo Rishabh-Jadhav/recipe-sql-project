@@ -132,11 +132,6 @@ Mapping table connecting recipes and ingredients.
 ```sql
 
 
-SELECT r.Recipe_name, c.Category_name
-FROM Recipes r
-JOIN Categories c ON r.Category_ID = c.Category_ID;
-
-
 
 -- 1) Display the names and descriptions of all recipes.
 
